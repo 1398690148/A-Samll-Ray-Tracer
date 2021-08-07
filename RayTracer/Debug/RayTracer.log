@@ -1,0 +1,28 @@
+﻿  main.cpp
+d:\raytracer\raytracer\raytracer\vec3.h(110): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\moving_sphere.h(23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\moving_sphere.h(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\moving_sphere.h(40): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\moving_sphere.h(50): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\moving_sphere.h(61): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\moving_sphere.h(62): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\camera.h(12): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\camera.h(26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\dielectric.h(30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\perlin.h(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(34): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(40): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(41): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(46): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(47): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(49): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(64): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(65): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(99): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(100): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracer\raytracer\raytracer\main.cpp(100): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracer\raytracer\raytracer\main.cpp(108): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  RayTracer.vcxproj -> D:\RayTracer\RayTracer\Debug\RayTracer.exe
